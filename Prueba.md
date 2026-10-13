@@ -16,7 +16,16 @@
 ##### Causa: per què passava.
 ##### Solució: què vam fer.
 ##### Detectada per: @usuari
->[Tip]
+>[!Note]
+>[!Tip]
+>[!Important]
+>[!Warning]
+>[!Caution]
+
+
+
+
+
 
 ### Decisions tècniques (què heu triat, per què, alternatives)
 
