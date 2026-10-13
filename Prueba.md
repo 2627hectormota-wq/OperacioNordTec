@@ -16,14 +16,20 @@
 ##### Causa: per què passava.
 ##### Solució: què vam fer.
 ##### Detectada per: @usuari
+> [!NOTE]
+> Informació addicional sobre la incidència.
 
->[!Tip]
+> [!TIP]
+> Recomanació per evitar que es repeteixi.
 
->[!Important]
+> [!IMPORTANT]
+> Decisió o dada que cal tenir present.
 
->[!Warning]
+> [!WARNING]
+> Avís sobre un possible problema.
 
->[!Caution]
+> [!CAUTION]
+> Precaució davant d'una acció amb risc.
 
 
 
