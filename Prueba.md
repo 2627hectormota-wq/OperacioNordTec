@@ -2,13 +2,9 @@
 # Operació Nord Tec
 *Hector Mota Cànobas, 1ASIXB*
 
-
-### Index
-
 ## Índex
 
 - [Operació Nord Tec](#operació-nord-tec)
-    - [Index](#index)
   - [Índex](#índex)
   - [Estat del Projecte](#estat-del-projecte)
   - [Estat del projecte](#estat-del-projecte-1)
@@ -47,7 +43,10 @@
 > [!IMPORTANT]
 > Decisió o dada que cal tenir present.
 
+:::warning
 > [!WARNING]
+:::warning
+
 > Avís sobre un possible problema.
 
 > [!CAUTION]
