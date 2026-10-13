@@ -16,10 +16,13 @@
 ##### Causa: per què passava.
 ##### Solució: què vam fer.
 ##### Detectada per: @usuari
->[!Note]
+
 >[!Tip]
+
 >[!Important]
+
 >[!Warning]
+
 >[!Caution]
 
 
