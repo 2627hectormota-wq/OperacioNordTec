@@ -6,11 +6,9 @@
 
 - [Operació Nord Tec](#operació-nord-tec)
   - [Índex](#índex)
-  - [Estat del Projecte](#estat-del-projecte)
-  - [Estat del projecte](#estat-del-projecte-1)
+  - [Estat del projecte](#estat-del-projecte)
   - [Arquitectura de xarxa](#arquitectura-de-xarxa)
   - [Configuracions](#configuracions)
-  - [Configuracions](#configuracions-1)
   - [Incidències i solucions](#incidències-i-solucions)
     - [Missatge d'error exacte](#missatge-derror-exacte)
       - [Quan: fase i context](#quan-fase-i-context)
@@ -20,11 +18,9 @@
   - [Decisions tècniques](#decisions-tècniques)
   - [Reflexions tècniques](#reflexions-tècniques)
 
-## Estat del Projecte
 ## Estat del projecte
 ## Arquitectura de xarxa
 
-## Configuracions
 ## Configuracions
 
 ## Incidències i solucions
@@ -43,10 +39,7 @@
 > [!IMPORTANT]
 > Decisió o dada que cal tenir present.
 
-:::warning
 > [!WARNING]
-:::warning
-
 > Avís sobre un possible problema.
 
 > [!CAUTION]
